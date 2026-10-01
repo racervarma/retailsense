@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Outputs (we want to generate these fresh, not track them)
+outputs/
+
+# Python cache and Jupyter files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
